@@ -1,6 +1,4 @@
-REPACK OF "https://github.com/Flowseal/zapret-discord-youtube" ALL CREDITS TO [Flowseal](https://github.com/Flowseal)
-
-#Zapret (обход блокировки Discord'а и Youtube'а)
+# Zapret (обход блокировки Discord'а и Youtube'а)
 
 ## Guide
 
@@ -15,7 +13,7 @@ REPACK OF "https://github.com/Flowseal/zapret-discord-youtube" ALL CREDITS TO [F
 - **`service_discord_youtube.bat`** - запустить обход дискорда и ютуба и поставить на автозапуск (в сервисах)
 - **`service_discord_youtube_secondary.bat`** - запустить обход дискорда и ютуба и поставить на автозапуск (в сервисах | если не работает первый, лучше работает на МГТС)
 ##
-- **`service_goodbye_discord.bat`** - запустить, если вы используете **СЕРВИС goodbyedpi**, и хотите, чтобы zapret обходил **только discord**. ВНИМАНИЕ: Запускать ПОСЛЕ создания сервиса goodbyedpi. Первый раз goodbyedpi может вылететь - просто перезапустите устройство! (Работает плохо)
+- **`service_goodbye_discord.bat`** - запустить, если вы используете **СЕРВИС goodbyedpi**, и хотите, чтобы zapret обходил **только discord**. ВНИМАНИЕ: Запускать ПОСЛЕ создания сервиса goodbyedpi. Первый раз goodbyedpi может вылететь - просто перезапустите устройство! (Работает плохо
 ##
 - **`service_remove.bat`** - остановить и удалить сервисы выше
 
@@ -42,4 +40,4 @@ sc delete WinDivert
 ### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `*discord_youtube`) и в список list-discord (для файлов без `youtube` в названии). После добавления сервис нужно перезапустить
 
 ### Оригинальный репозиторий
-Credits to https://github.com/Flowseal/zapret-discord-youtube
+Credits to https://github.com/bol-van/zapret/tree/master/binaries/win64/zapret-winws
