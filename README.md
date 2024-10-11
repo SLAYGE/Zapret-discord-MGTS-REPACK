@@ -1,4 +1,4 @@
-# Zapret (обход блокировки Discord'а и Youtube'а)
+# Zapret (обход блокировки Discord'а и Youtube'а) - REPACK OF [THIS REPOSITORY](https://github.com/Flowseal/zapret-discord-youtube) ALL CREDITS TO [Flowseal](https://github.com/Flowseal)
 
 ## Guide
 
@@ -40,4 +40,4 @@ sc delete WinDivert
 ### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `*discord_youtube`) и в список list-discord (для файлов без `youtube` в названии). После добавления сервис нужно перезапустить
 
 ### Оригинальный репозиторий
-Credits to https://github.com/bol-van/zapret/tree/master/binaries/win64/zapret-winws
+Credits to https://github.com/bol-van/zapret/tree/master/binaries/win64/zapret-winws and https://github.com/Flowseal/zapret-discord-youtube
